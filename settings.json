@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": RODINASMP-BG.aternos.me
+    "port": 63271,
     "version": "",
     "try-creative": false
   },
